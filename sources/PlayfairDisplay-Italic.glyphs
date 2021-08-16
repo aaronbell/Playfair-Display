@@ -1060,7 +1060,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1201;
+value = 1159;
 },
 {
 name = winDescent;
@@ -1127,7 +1127,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1201;
+value = 1159;
 },
 {
 name = winDescent;
@@ -98033,7 +98033,7 @@ backslash = -26;
 };
 manufacturer = "Claus Eggers Sørensen";
 manufacturerURL = "http://www.forthehearts.net";
-unitsPerEm = 1240;
+unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 203;
 }

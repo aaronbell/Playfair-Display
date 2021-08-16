@@ -1060,7 +1060,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1201;
+value = 1159;
 },
 {
 name = winDescent;
@@ -1132,7 +1132,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1201;
+value = 1159;
 },
 {
 name = winDescent;
@@ -106655,7 +106655,7 @@ parenright = -11;
 };
 manufacturer = "Claus Eggers Sørensen";
 manufacturerURL = "http://www.forthehearts.net";
-unitsPerEm = 1240;
+unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 UUID0 = {
