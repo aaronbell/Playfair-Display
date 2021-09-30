@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+in
+);
 classes = (
 {
 automatic = 1;
@@ -93331,7 +93334,7 @@ trademark = 46;
 "@MMK_R_ezh" = -40;
 "@MMK_R_h" = 38;
 "@MMK_R_l" = 18;
-"@MMK_R_n" = 164;
+"@MMK_R_n" = 0;
 b = 26;
 backslash = -11;
 bar = 37;
